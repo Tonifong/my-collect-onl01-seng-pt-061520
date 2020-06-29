@@ -1,4 +1,3 @@
-
 def my_collect(array)
     i = 0
     name_collection = []
@@ -7,5 +6,5 @@ def my_collect(array)
       i += 1
     end
     name_collection
-  end (edited) 
+  end  
 
